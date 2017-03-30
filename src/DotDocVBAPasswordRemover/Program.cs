@@ -81,7 +81,7 @@ namespace DotDocVBAPasswordRemover
                     }
                 }
 
-                if (search_index == 0)
+                if (search_index != find_bytes.Length - 1)
                 {
                     Exit(ExitErrorCode.SearchEndedWithNoResults, "Search ended with no resulsts. Did not find DPB pattern within file.");
                 }
