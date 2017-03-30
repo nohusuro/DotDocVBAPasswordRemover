@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotDocVBAPasswordRemover": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Personal\\Documents\\10. Software Development\\c#\\DotDocVBAPasswordRemover\\src\\DotDocVBAPasswordRemover\\bin\\Debug\\netcoreapp1.0\\REF_829332126514.doc\""
+    }
+  }
+}
