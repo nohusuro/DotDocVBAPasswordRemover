@@ -5,7 +5,7 @@ Simple c# program to corrupt the password entry on a VBA project for .DOC or .XL
 
 ## Usage
 
-<program>.exe <filepath>
+program.exe [filepath]
 
 Open document
 
